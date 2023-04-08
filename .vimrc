@@ -143,7 +143,6 @@ nmap <Leader>p :PlugInstall<CR>
 nmap <Leader>f :Telescope find_files<CR>
 nmap <Leader>fb :Telescope buffers<CR>
 nmap <Leader>g :DiffviewFileHistory<CR>
-nmap <Leader>t :Neoformat! python<CR>
 
 nmap <Leader>1 :BufferLineGoToBuffer 1<CR>
 nmap <Leader>2 :BufferLineGoToBuffer 2<CR>
